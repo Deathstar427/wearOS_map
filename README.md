@@ -7,12 +7,19 @@ We used Google Cloud Platform, Google Map styling wizard, Lottie animations for 
 ## Screenshots
 
 ![wear6](https://user-images.githubusercontent.com/70877885/183245522-f6db4091-6653-4958-ae39-d7cabf89a45c.png)
+<br>
 ![wear4](https://user-images.githubusercontent.com/70877885/183245532-b54fdf8f-d305-487d-940a-24fa636d3240.png)
+<br>
 ![Screenshot_1638954974](https://user-images.githubusercontent.com/70877885/183245224-26634b0d-1364-49e5-b95f-f682c8e288be.png)
+<br>
 ![wear2](https://user-images.githubusercontent.com/70877885/183245358-8771e3a5-21c6-40d4-8015-9cdc2cb3f59f.png)
+<br>
 ![wear1](https://user-images.githubusercontent.com/70877885/183245378-01fc6f23-4f59-4b15-9727-9836e43851de.gif)
+<br>
 ![wear3](https://user-images.githubusercontent.com/70877885/183245384-259134eb-45c3-4b8c-a5f6-5e98250cb074.png)
+<br>
 ![wear5](https://user-images.githubusercontent.com/70877885/183245511-1cbe7b1f-ba34-4189-8961-a443394dbc85.gif)
+<br>
 ![wear7](https://user-images.githubusercontent.com/70877885/183245516-8239dfd6-f782-4b3d-8509-ac814a40604c.jpg)
 
 
