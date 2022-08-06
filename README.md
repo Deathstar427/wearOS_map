@@ -14,7 +14,7 @@ We used Google Cloud Platform, Google Map styling wizard, Lottie animations for 
 <br>
 ![wear2](https://user-images.githubusercontent.com/70877885/183245358-8771e3a5-21c6-40d4-8015-9cdc2cb3f59f.png)
 <br>
-![wear1](https://assets2.lottiefiles.com/packages/lf20_svy4ivvy.json)
+![47956-area-map (1)](https://user-images.githubusercontent.com/70877885/183245619-42b081a8-991b-4fc5-9679-6f6d3711d433.gif)
 <br>
 ![wear3](https://user-images.githubusercontent.com/70877885/183245384-259134eb-45c3-4b8c-a5f6-5e98250cb074.png)
 <br>
